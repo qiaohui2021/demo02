@@ -1,1 +1,1 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=org.javaboy.encrypt.starter.autoconfig.EncryptAutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.example.omen.config.EncryptAutoConfiguration
